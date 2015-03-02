@@ -1,0 +1,27 @@
+total 16
+-rw-r--r--  1 taminov  staff   23  2 Mar 14:00 HEAD
+-rw-r--r--  1 taminov  staff  137  2 Mar 14:00 config
+drwxr-xr-x  7 taminov  staff  238  2 Mar 14:00 hooks
+drwxr-xr-x  3 taminov  staff  102  2 Mar 14:00 info
+drwxr-xr-x  4 taminov  staff  136  2 Mar 14:00 objects
+
+.git/hooks:
+total 48
+-rwxr-xr-x  1 taminov  staff  1642  2 Mar 14:00 pre-commit.sample
+-rwxr-xr-x  1 taminov  staff  1356  2 Mar 14:00 pre-push.sample
+-rwxr-xr-x  1 taminov  staff  4951  2 Mar 14:00 pre-rebase.sample
+-rwxr-xr-x  1 taminov  staff  1239  2 Mar 14:00 prepare-commit-msg.sample
+-rwxr-xr-x  1 taminov  staff  3611  2 Mar 14:00 update.sample
+
+.git/info:
+total 8
+-rw-r--r--  1 taminov  staff  240  2 Mar 14:00 exclude
+
+.git/objects:
+total 0
+drwxr-xr-x  2 taminov  staff  68  2 Mar 14:00 info
+drwxr-xr-x  2 taminov  staff  68  2 Mar 14:00 pack
+
+.git/objects/info:
+
+.git/objects/pack:
